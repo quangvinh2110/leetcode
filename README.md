@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/quangvinh2110/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1319-unique-number-of-occurrences](https://github.com/quangvinh2110/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/quangvinh2110/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/quangvinh2110/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2358-number-of-ways-to-split-array](https://github.com/quangvinh2110/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Prefix Sum
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/quangvinh2110/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/quangvinh2110/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/quangvinh2110/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
