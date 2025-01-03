@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/quangvinh2110/leetcode/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/quangvinh2110/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1319-unique-number-of-occurrences](https://github.com/quangvinh2110/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/quangvinh2110/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/quangvinh2110/leetcode/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/quangvinh2110/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/quangvinh2110/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Stack
