@@ -5,5 +5,5 @@ class Solution:
         grid_T = list(zip(*grid))
         count = 0
         for row in grid_T:
-            count+=hashmap[','.join(str(x) for x in row)]
+            count+=hashmap[' '.join(str(x) for x in row)]
         return count
